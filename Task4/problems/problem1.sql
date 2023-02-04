@@ -1,0 +1,2 @@
+--MSSQl--
+select * from City
